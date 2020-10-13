@@ -78,7 +78,7 @@ class _ProfileFirstState extends State<ProfileFirst> {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: <Widget>[
                             Text(
-                              "User Name",
+                              "UserName",
                               style: TextStyle(
                                   color: Colors.white,
                                   fontSize: 5 * SizeConfig.textMultiplier,
